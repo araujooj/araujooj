@@ -4,4 +4,4 @@ I am always willing to solve problems in several areas with my knowledge on Node
 
 Since March I am studying typescript - it's an amazing and helpful tool!
 
-## 💬 Want some help? Contact me on Discord: araujo#5100
+# 💬 Want some help? Contact me on Discord: araujo#5100
