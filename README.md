@@ -5,7 +5,8 @@ I am always willing to solve problems in several areas with my knowledge on Node
 ## My Stack
 
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-48CEF7?style=flat-square&logo=React&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/-React-14C1F5?style=flat-square&logo=React&logoColor=black" />
+<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-361351?style=flat-square&logo=Elixir&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
