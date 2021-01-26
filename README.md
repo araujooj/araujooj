@@ -11,6 +11,8 @@ I am always willing to solve problems in several areas with my knowledge on Node
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-361351?style=flat-square&logo=Elixir&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-FFD543?style=flat-square&logo=Python&logoColor=black" />
+<img alt="Django" src="https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django&logoColor=white" />
 </p>
 
 💬 Want some help? Contact me on Discord: araujo#5100
