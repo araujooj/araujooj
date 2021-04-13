@@ -15,6 +15,6 @@ I am always willing to solve problems in several areas with my knowledge on Node
 <img alt="Django" src="https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django&logoColor=white" />
 </p>
 
-💬 Want some help? Contact me on Discord: araujo#5100
+💬 Want some help? Contact me on Discord: Gabriel Araújo#5100
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=araujooj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
