@@ -16,5 +16,3 @@ I am always willing to solve problems in several areas with my knowledge on Node
 </p>
 
 💬 Want some help? Contact me on Discord: Gabriel Araújo#5100
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=araujooj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
