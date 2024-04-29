@@ -1,14 +1,24 @@
 ### Hi there 👋
-Im a fullstack developer and enthusiast of JavaScript technologies.  
-I am always willing to solve problems in several areas with my knowledge on NodeJS / React / React Native.
+Hey! I am Gabriel, an frontend engineer based on Brazil <span>&#x1f1e7;&#x1f1f7;</span>. I've been working with React for 6 years, and since the beginning of my journey (mainly on hackathons and innovation events), I have gotten deeper and deeper in the frontend rabbit hole.
+I always like to challenge myself with complex problems, focusing on creating great and seamless user experiences on the web. 
+
+I believe that programming is one path for the liberation of human suffering, and that's why I do what I do.
 
 ### My Stack
 
-<p>
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
-<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F74C0?style=flat-square&logo=Typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-14C1F5?style=flat-square&logo=React&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+The technologies that I work on a daily basis:
 
-💬 Want some help? Contact me on Discord: Gabriel Araújo#5100
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
